@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Frosty-204
-- 👀 I’m interested in java, security, python, or just anything fun
-- 🌱 I’m currently learning html 🗨
-- 💞️ I’m looking to collaborate on <not really>
-- 📫 How to reach me <you don't>
+-  Beginner frontend developer still on journey, and also aiming for cybersecurity as a path
+- Would consider connections
+- 📫 How to reach me <you don't>, lol actually not ready yet to get into the big world since i still need some practising and skills. (basically i'm cancelling the above point xd.
 
 <!---
 Frosty-204/Frosty-204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
